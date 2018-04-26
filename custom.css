@@ -1,0 +1,32 @@
+.l-under{
+    border-top: 0px;    
+    border-right: 0px;    
+    border-left: 0px;
+    border-bottom: 2px;
+    border-style: solid;
+    border-color: #1A237E;
+}
+.l-top{
+    border-top: 2px;    
+    border-right: 0px;    
+    border-left: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-color: #1A237E;
+}
+.l-right{
+    border-top: 0px;    
+    border-right: 2px;    
+    border-left: 0px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-color: #1A237E;
+}
+.l-left{
+    border-top: 0px;    
+    border-right: 0px;    
+    border-left: 2px;
+    border-bottom: 0px;
+    border-style: solid;
+    border-color: #1A237E;
+}
